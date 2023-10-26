@@ -1,1 +1,5 @@
-# GamingBlog__
+Create a simple gaming blog using MEAN Stack...
+
+Both Frontend and Backend....
+
+#MEANSTACK
